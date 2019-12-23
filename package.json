@@ -16,6 +16,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
   "bugs": {
     "url": "https://github.com/betteralong/vuepressDoc/issues"
   },
