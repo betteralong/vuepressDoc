@@ -1,0 +1,23 @@
+{
+  "name": "vuepressDoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh",
+    "cname": "bash cname.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betteralong/vuepressDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betteralong/vuepressDoc/issues"
+  },
+  "homepage": "https://github.com/betteralong/vuepressDoc#readme"
+}
